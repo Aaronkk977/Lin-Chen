@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "a7af2b84b19daf6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e344b7438596d00f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a05713b57c4ee31",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "c335958444d8910a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b7a6db9a83ba00a",
+    "type": "split",
+    "children": [
+      {
+        "id": "c839a9c2d6d3e0dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9dbbdef9120875cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cd2705e1139546d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4089449b23a9a2d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2265c09d9b0d739b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36bdc4c17e31bb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76a2bcbf8492497",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "new.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f752853fa6fae27",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "new.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "051047518e2ec807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbeda9b1640ad810",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "new.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c335958444d8910a",
+  "lastOpenFiles": [
+    "new.md",
+    "README.md",
+    "有了愛情有比較幸福嗎.md",
+    "循環式嘆息 (cyclic sighing).md",
+    "2024-04-10.md",
+    "2024-04-18.md",
+    "重要的事再忙也要做.md",
+    "應該要打造專屬的多方資訊來源管道.md",
+    "理想.md",
+    "小說/皮的獨白.md",
+    "2024-04-12.md",
+    "小說",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}

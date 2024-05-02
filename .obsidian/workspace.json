@@ -6,6 +6,26 @@
       {
         "id": "e344b7438596d00f",
         "type": "tabs",
+        "dimension": 60.83765112262521,
+        "children": [
+          {
+            "id": "c0c7da3f73862948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "三個寫應用程式的重要步驟.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e96b0282b49f14cf",
+        "type": "tabs",
+        "dimension": 39.16234887737479,
         "children": [
           {
             "id": "4a05713b57c4ee31",
@@ -16,21 +36,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "c335958444d8910a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "new.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 274.5
   },
   "right": {
     "id": "2265c09d9b0d739b",
@@ -96,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "new.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -157,21 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c335958444d8910a",
+  "active": "4a05713b57c4ee31",
   "lastOpenFiles": [
-    "new.md",
-    "README.md",
-    "有了愛情有比較幸福嗎.md",
+    "三個寫應用程式的重要步驟.md",
+    "感受不到生活的感覺.md",
+    "Untitled.canvas",
+    "獲得創作的靈感來源.md",
     "循環式嘆息 (cyclic sighing).md",
+    "應該要打造專屬的多方資訊來源管道.md",
+    "README.md",
+    "重要的事再忙也要做.md",
+    "new.md",
+    "有了愛情有比較幸福嗎.md",
     "2024-04-10.md",
     "2024-04-18.md",
-    "重要的事再忙也要做.md",
-    "應該要打造專屬的多方資訊來源管道.md",
     "理想.md",
     "小說/皮的獨白.md",
     "2024-04-12.md",
     "小說",
-    "Untitled.canvas",
     "Welcome.md"
   ]
 }

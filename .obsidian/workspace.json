@@ -4,28 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "e344b7438596d00f",
+        "id": "dcd2fe08b4471077",
         "type": "tabs",
-        "dimension": 60.83765112262521,
-        "children": [
-          {
-            "id": "c0c7da3f73862948",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "三個寫應用程式的重要步驟.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e96b0282b49f14cf",
-        "type": "tabs",
-        "dimension": 39.16234887737479,
         "children": [
           {
             "id": "4a05713b57c4ee31",
@@ -36,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "e557142e98345ba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/B-tree.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6341ac80164823b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Discrete Math/Graph theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "2265c09d9b0d739b",
@@ -103,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Discrete Math/Graph theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Discrete Math/Graph theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Discrete Math/Graph theorem.md"
+              }
             }
           }
         ]
@@ -160,24 +169,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a05713b57c4ee31",
+  "active": "6341ac80164823b3",
   "lastOpenFiles": [
-    "三個寫應用程式的重要步驟.md",
-    "感受不到生活的感覺.md",
-    "Untitled.canvas",
+    "Discrete Math/20240425.pdf",
+    "Discrete Math/20240523.pdf",
+    "Discrete Math/20240516.pdf",
+    "Discrete Math/20240509.pdf",
+    "Discrete Math",
+    "DSA/B-tree.md",
+    "DSA/outline_graph_of_b-tree_deletion.png",
+    "DSA/basic_b-tree_characteristics.png",
+    "Discrete Math/Graph theorem.md",
+    "Pasted image 20240528211320.png",
+    "path/to/b tree basic graph.md",
+    "Pasted.md",
+    "path/to",
+    "path",
+    "DSA/b tree basic graph.png",
+    "b tree basic graph.png",
+    "b tree basic graph (2).png",
+    "如何讓一天過得有充實感.md",
+    "Pasted image 20240528175315.png",
+    "Pasted image 20240528174937.png",
+    "Pasted image 20240528174800.png",
+    "DSA",
     "獲得創作的靈感來源.md",
+    "Man's searching for meaning.md",
+    "(透過選擇環境讓自己變成想成為的樣子).md",
+    "(隨著年紀增長不斷膨脹的慾望).md",
+    "珍惜一期一會.md",
+    "2024-05-23.md",
+    "最近生活遇到的一些瓶頸.md",
     "循環式嘆息 (cyclic sighing).md",
-    "應該要打造專屬的多方資訊來源管道.md",
-    "README.md",
+    "三個寫應用程式的重要步驟.md",
+    "戒斷手機的最好方法.md",
     "重要的事再忙也要做.md",
+    "感受不到生活的感覺.md",
+    "打造專屬的多方資訊來源管道.md",
+    "README.md",
+    "Untitled.canvas",
     "new.md",
     "有了愛情有比較幸福嗎.md",
     "2024-04-10.md",
     "2024-04-18.md",
     "理想.md",
     "小說/皮的獨白.md",
-    "2024-04-12.md",
-    "小說",
-    "Welcome.md"
+    "小說"
   ]
 }
